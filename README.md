@@ -91,3 +91,9 @@ Evaluation Wordpress, création d'un site e-commerce
     </li>
 </ul>
 </p>
+<h1>Informations de paiement</h1>
+<p>carte code: 4242424242424242
+date d'expiration : 11/17
+Crytpo  : 123
+</p>
+<p>Enjoy !</p>
