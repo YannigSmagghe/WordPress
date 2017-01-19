@@ -49,6 +49,7 @@ Evaluation Wordpress, création d'un site e-commerce
     <li>
         Surcharge du thème Activello personnelle <br/>
         Surcharge des templates de WooCommerce en suivant la documentation du plugin<br/>
+        Surchage de MyAccount de WooCommerce et de Login <br/>
     </li>
     <li>
         style graphique sobre et épurée
